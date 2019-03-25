@@ -1,0 +1,17 @@
+.highest-line{
+  fill: none;
+  stroke: #222;
+  stroke-width: 1px;
+  stroke-dasharray: 4,4;
+}
+.data-line{
+  fill: rgba(80,220,100,0.8);
+  stroke-color:green;
+  stroke-width: 2px;
+
+}
+
+.ipo-point{
+  fill: yellow;
+  stroke-width: 0;
+}

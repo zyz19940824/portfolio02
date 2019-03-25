@@ -1,0 +1,21 @@
+.highest-line{
+  fill: none;
+  stroke: #222;
+  stroke-width: 1px;
+  stroke-dasharray: 4,4;
+}
+.data-line{
+  fill: none;
+  stroke: green;
+  stroke-width: 2px;
+}
+
+.iMac-point{
+  fill: pink;
+  stroke-width: 0;
+}
+
+.iPhone-point{
+  fill: pink;
+  stroke-width: 0;
+}
